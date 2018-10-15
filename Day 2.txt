@@ -1,0 +1,58 @@
+Marlon D                                                    2018-10-15
+
+
+2.6 Exercises
+
+1.One major game that has failed due to market-driven flaw is No Man 
+sky, when first annouced No man sky promised gamers that they would be able to 
+explore space on randomly generated planets promising everyone that they have their
+own unique adventures and they be able to play online with friends. Because of this the 
+game suffered greatly when it was finally released and unable to do many of the things
+the developers promised they be able to do the flaw was that they "hyped" the game up 
+to the point where gamers build it up in their heads better than what the final product 
+turned out to be. A game that has failed because of its developers is the famous Duke nukem forever,
+While the series had major success in its previous games duke nukem forever couldn't ride on the success
+due to one major problem the game itself was stuck in what is called "development hell" for 15 years being 
+passed on from developer to developer before final being released at big losses for the companies involved.
+Superman 1999 made for the nintendo 64 is one such game thats flaw was license-driven, In this case the game
+was recived very poorly as the gameplay was labed as repetive, poor graphics and consisted of a game mode where
+they have player racing through hoops with unclear time limit and was very hard to compelete. When asked 
+the developers titus stated the reason for the games failure was the licensing and contiuned saying that the 
+final product only represented 10% of the game but since they could get the proper licenses that was the best they 
+could managed. A game that failed due to technology failure is the cyber-cop for the sega genesis, this was one of the  
+first games to try FPS back in its day however the game had many issues such as bad controls 
+bad graphics and high diffuclty it was a product that failed due to its techonlgy limitations 
+as FPS wasn't exactly as good as it now with the few expections (Golden eye n64) and may have been better
+if the developers had access to better tech. Hotel Mario (CDI, 1994) is game thats flaw was art desgin and how they 
+went about it. This was nintendos very few times it let another developer make a game with their property
+Philips Interactive Media decided to take the game in another direction and attempted full-motion capture 
+of the Cdi console it was noted as having horrible animated cut-scenes and many complain they dislikes 
+the art style they went with making the characters look blocky and like robots.
+
+2. a) Super Mario bros 3 is a 2d side scroller for the super nintendo revoloing on level based gameplay in which
+the player must reach the end without dying in order to complete. These levels consist in the games worlds in each world 
+there are a number of levels to compelete in order to reach the boss of that world, once defeated the player can move onto
+the next world with the ultimate goal of beating the final boss Bowser and saving Princess Peach. The loading screen into each level is a black screen,
+outside the game in the world player will be able to move Mario around the map in order to select a level to go to or world. In each level the player's hud 
+consit of the player's lives, coins, how much time they have to complete the level, which world, how many points they have, arrows that indicate how 
+fast the player is going and slots for extra power pickups to go. In each level there will be many enememy npc such as gombas, turtles, cannon balls, etc 
+along with pitfall traps and tricky platforming along with pipes that lead the player to secret rooms in the level along with many other secret entraces.
+players will only be able to make mario jump and run without powers but in the level there are many pickups that grant mario powers to use against enememy such as the
+feather which gives mario a tail to fight and fly with, fire which gives fire powers and etc. Key characters will be Mario, Lugi, Bowser, Peach, Toad. intended target audience
+is everyone children, teenagers, adults. Music differs with each level with some levels that focus on beating in short time frame player music that gives a sense of rush 
+or in castle it plays music with a sense of suspense and horror however in each level when the player is low on time the music speeds up as a sort of reminder, levels themselves vary from castles filled
+with ghost or underwater levels to levels that require you to jump from platform to platform while they're moving. 
+
+b) The original designer must have had to consider the techonolgical limitations of the super nintendo's hardware and 
+how to make it challenging enough for adults but not so much that children couldn't play. Because of this they were able to create a game with a simple idea and gameplay
+that was easy for anyone to pick up and made it a commerical success and considered one of the best games in its series. 
+
+c) One modification that i would make to the game's design is add true co-op mode, true the game did offer muitplayer however only in a competiting sense 
+players couldnt play at the same time and would have to take turns compeleting levels the player just finished. this in my opinion was the only flaw of the game
+and i would add the feature to be able to have mario and lugi play at the same time in the same level helping each other. In this day and age most games shoot for  mutiplayer 
+genre as alot of people prefer to play with other people rather that solo this i believe would increased sales and the overall quatily of the game. 
+
+3. Bacon bits a classic shoot 'em up where the player must shoot giant pieces of bacon falling from the sky before they hit the floor, players will only be able to move side to side 
+and shoot directly above them and they must completly destroy the bacon as shooting one part is not enough. The player's hud consist of the players health on the top left coner and the points 
+gathered on the top right. this game has a esrb rating of E for everyone and is made for moblie phones, world design is a black screen and a box outline around the screen, key character is one the 
+cannon meat eater. the music for the game will be a high beat tempo that starts each time the player lands a hit also serves as confirmation of a hit.  
