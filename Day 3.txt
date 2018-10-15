@@ -1,0 +1,37 @@
+Marlon D                                                         2018-10-15
+
+
+Exercises 3.7
+
+1. a)The game concept is a shoot em up based on the story of a hitman whose son has been kidnap and must compelete the missions
+the kidnappers haven given them. I noticed in the discussions we couldn't land on a set game concept that was simple enough but 
+also had catch, some thought a decent story would make the difference stating many mobile games dont include
+a story while others argued that gameplay is still most important and that should be the focus.
+
+b) Specfic story elements we discussed were the use of cut-scenes, now most moblie games dont require this even if they have story
+its typical still cutscenes where its drawn and the characters dont actually speak just subtitles for the player to read. some people thought that be 
+to much for our game i thought however a actually animated cut-scene would be the perfect catch as its something different for the moblie game space
+and is a way for the player to get drawn into the world of the game itself. Also features that we talked about was muitplayer and character customization, all agreed that these
+features should be in the game we had trouble coming up with how it should be done as custimzation could only go as far apparel for the character
+and not stats or leveling like in RPGs. What wasn't discussed was some story ideas that didnt fit the overall theme and feel of the game
+certain gameplay elements that didnt make sense for the type of game or thoughts of cross play.
+
+2. a) The game features active challenges in the form of an good and bad karma system that enacts in certain parts in the game which gives the player 2 choices of good vs evil,
+it unfolds in many different ways for example in one part of the game there could be a part where the player must make a choice 
+between saving a innoncent bystander or contiune chasing their prey, when these choices occur the player is locked into a choice screen where they must pick between
+the 2 opitions and there will be a time limit if it runs out the choice will be made for the player depending on their current playstyle. There will also be quick-time-events
+where teh character say gets ambushed and they're given a small window to hit certain buttons to compelete the qte.
+
+B) the core mechanics i chose for this was realtime for both to give the player a sense of pressure in order to make 
+them give snap decisions and feel the consequince of their choice and to add to the diffculty of the QTE.
+
+3. Some entites i would need to create are a simple numeric entity to show how many health the player has (out of 100), a compound entity that shows which 
+weapon the player has in his stock.A very obvious resource drain would be the ammutation the player has which is depleted as the player uses their weapons, and a health drain 
+tha occurs whenever the player is damaged. The story can be more simplified within the choice system mechanic of the game allowing the player to make their own story and have the story
+told in a way that is both simple and adds replayablitly for the game. Failing one button seqeunce in a QTE does not mean you fail the whole event however if they have 2 failed in a row
+they will fail the event this way the player has a better chance of completing it without failing right away.
+
+4. A level for this game would start in a warehouse in which the mission is to take out the boss at the back of the warehouse, there are boxes and pillars for players to take cover behind 
+in order to avoid damage, its two story so players will have to watch out for enemies and will have open space for the player to move around. have to consider the players ablitly to move around
+and get behind enemies or move out of a pinned down location and it also adds to the diffculty forcing the player to move from cover to cover never staying in once player. Once the player clears the room
+and moves to that back it is a hallway at the end is the boss with a heavy gun players must slowly make their way up to him using pillars for cover once in front the player can take out the boss. 
